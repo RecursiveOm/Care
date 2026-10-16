@@ -1,0 +1,16 @@
+node_modules/
+.next/
+dist/
+build/
+coverage/
+.venv/
+venv/
+__pycache__/
+.env
+.env.*
+!.env.example
+!.env.sample
+*.pem
+*.key
+service-account*.json
+firebase-adminsdk*.json
